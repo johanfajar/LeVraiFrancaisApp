@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Le Vrai Francais</string>
+
+    <string name="count_label">Question %d</string>
+    <string name="question_label">Question</string>
+    <string name="btn_answer">Choice</string>
+
+    <string name="result_title">Result</string>
+    <string name="result_score">%d / 20</string>
+    <string name="result_score2">%d / 10</string>
+    <string name="btnExit">Exit Exercice</string>
+
+    <string name="count">%d .</string>
+
+</resources>

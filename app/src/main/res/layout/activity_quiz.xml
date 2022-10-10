@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".QuizActivity"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:ignore="UsingOnClickInXml">
+
+    <TextView
+        android:id="@+id/countLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/count"
+        android:textSize="24sp"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="20dp"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/questionLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-30dp"
+        android:layout_marginLeft="60dp"
+        android:text="@string/question_label"
+        android:textSize="24sp"
+        android:textColor="@color/black"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/answerBtn1"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="90dp"
+        android:background="@drawable/custom_button2"
+        android:onClick="checkAnswer"
+        android:text="@string/btn_answer"
+        android:textColor="#FFFFFF"
+        app:backgroundTint="#FF9800" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/answerBtn2"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="270dp"
+        android:layout_marginTop="-60dp"
+        android:background="@drawable/custom_button2"
+        android:onClick="checkAnswer"
+        android:text="@string/btn_answer"
+        android:textColor="#FFFFFF"
+        app:backgroundTint="#FF9800" />
+</LinearLayout>

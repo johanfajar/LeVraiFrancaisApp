@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DafpusActivity"
+    android:background="@color/white">
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/pdfView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="-50dp">
+
+        <ImageButton
+            android:id="@+id/prev"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginEnd="304dp"
+            android:layout_marginBottom="50dp"
+            android:background="@drawable/custom_button"
+            android:src="@drawable/ic_baseline_skip_previous_24"
+            android:textColor="@color/white"
+            app:backgroundTint="#00BCD4"
+            tools:layout_editor_absoluteX="0dp" />
+
+        <ImageButton
+            android:id="@+id/home"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginEnd="176dp"
+            android:layout_marginBottom="50dp"
+            android:background="@drawable/custom_button"
+            android:src="@drawable/ic_baseline_home_24"
+            android:text="next"
+            android:textColor="@color/white"
+            app:backgroundTint="#00BCD4"
+            tools:layout_editor_absoluteX="0dp" />
+
+    </com.github.barteksc.pdfviewer.PDFView>
+
+</LinearLayout>

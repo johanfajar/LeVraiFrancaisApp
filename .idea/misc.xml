@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/drawable-v24/custom_button.xml" value="0.249" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1935" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/drawable/ic_baseline_assignment_24.xml" value="0.1815" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/drawable/ic_baseline_book_24.xml" value="0.1815" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1935" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/drawable/ic_le_vrai_francais.xml" value="0.143" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/drawable/ic_le_vrai_francais_logo.xml" value="0.143" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/drawable/ic_loading_screen__1_.xml" value="0.143" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/drawable/ic_paris.xml" value="0.143" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/drawable/ic_pngwing_com.xml" value="0.143" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/drawable/le vrai francais_background.xml" value="0.1935" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/layout/activity_competence.xml" value="0.348731884057971" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/layout/activity_dafpus.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/layout/activity_execice2.xml" value="0.15" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/layout/activity_exercice.xml" value="0.22" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/layout/activity_exercice1.xml" value="0.2" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/layout/activity_exercice3.xml" value="0.22" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/layout/activity_materi.xml" value="0.25" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/layout/activity_quiz.xml" value="0.25" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/layout/activity_result.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/layout/activity_result2.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/layout/activity_vocabularie.xml" value="0.16" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/layout/custom_button.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/Norihaya/AndroidStudioProjects/LeVraiFrancais/app/src/main/res/mipmap-anydpi-v26/le vrai francais.xml" value="0.1935" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
